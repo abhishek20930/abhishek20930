@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @abhishek20930
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m abhishek sharma
+- 👀 I’m student at Manipal University. Jaipur
+- 🌱 I’m currently learning computer science engineering
+- 💞️ I’m looking to collaborate on app development or game development projects
+- 📫 drop email at abhishek.sharmajr099@gmail.com
 
 <!---
 abhishek20930/abhishek20930 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
